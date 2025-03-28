@@ -132,7 +132,7 @@ CACHES = {
     }
 }
 # 腾讯云短信配置
-SECRETID = "AKIDa4SedXu9C1e9SXP5e1qcFfrumUzGQRHx"
+SECRETID = ""
 SECRETKEY = ""
 TENCENT_APP_ID = "1400646716"
 TENCENT_SIGN = "研Share公众号"
